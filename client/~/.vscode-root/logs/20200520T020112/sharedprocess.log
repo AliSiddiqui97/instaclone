@@ -1,0 +1,4 @@
+[2020-05-20 02:01:17.380] [sharedprocess] [info] main {"machineId":"d497793b18e73bbdd042b601a31cf7d0852ba185aa4a7de61d8f7a1f398cbca9","windowId":2}
+[2020-05-20 02:01:17.579] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/alisiddiqui/node-react/client/~/.vscode-root/User/snippets'
+[2020-05-20 02:01:20.346] [sharedprocess] [info] Deleted from disk ms-python.python /home/alisiddiqui/.vscode/extensions/ms-python.python-2020.5.78807
+[2020-05-20 02:01:57.411] [sharedprocess] [info] Starting to clean up unused language packs.

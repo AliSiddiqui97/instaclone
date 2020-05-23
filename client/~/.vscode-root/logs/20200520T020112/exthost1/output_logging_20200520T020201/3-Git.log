@@ -1,0 +1,657 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/alisiddiqui/node-react/client
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/index.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git check-ignore -v -z --stdin
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git check-ignore -v -z --stdin
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git check-ignore -v -z --stdin
+> git show :public/index.html
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/App.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/progile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/progile.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/App.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :public/index.html
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/login.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/login.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git check-ignore -v -z --stdin
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :public/index.html
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/public/index.html
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/index.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/index.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/App.test.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.test.js
+> git cat-file -s 4db7ebc25c2d066cd254805af5dda1ed1d2bc819
+> git show :src/index.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/index.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :public/index.html
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :public/index.html
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/App.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :package.json
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/package.json
+> git cat-file -s a8967f15cdec3249c5924092aff2a3e1a23a258b
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :package.json
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/package.json
+> git cat-file -s a8967f15cdec3249c5924092aff2a3e1a23a258b
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git check-ignore -v -z --stdin
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git check-ignore -v -z --stdin
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :package.json
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/package.json
+> git cat-file -s a8967f15cdec3249c5924092aff2a3e1a23a258b
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/UserProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/UserProfile.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/UserProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/UserProfile.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/UserProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/UserProfile.js
+> git show :src/components/Screens/userProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git check-ignore -v -z --stdin
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Screens/userProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/userProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/components/Screens/userProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/userProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/index.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/subscribedUserPosts.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/subscribedUserPosts.js
+> git check-ignore -v -z --stdin
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/subscribedUserPosts.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/subscribedUserPosts.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/subscribedUserPosts.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/App.css
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show :src/components/Navbar.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Navbar.js
+> git show :src/components/Screens/userProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/createPost.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/createPost.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/userProfile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/userProfile.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signup.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signup.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/reducers/userReducers.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/reducers/userReducers.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/home.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/home.js
+> git show :src/components/Screens/signin.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/signin.js
+> git show :src/components/Screens/profile.js
+> git ls-files --stage -- /home/alisiddiqui/node-react/client/src/components/Screens/profile.js

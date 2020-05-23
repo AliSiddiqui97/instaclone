@@ -1,0 +1,57 @@
+[2020-05-20 02:01:13.010] [main] [info] update#setState idle
+[2020-05-20 02:01:43.012] [main] [info] update#setState checking for updates
+[2020-05-20 02:01:43.164] [main] [info] update#setState idle
+[2020-05-20 05:39:42.134] [main] [info] update#setState checking for updates
+[2020-05-20 05:39:42.840] [main] [info] update#setState idle
+[2020-05-20 22:28:32.421] [main] [info] update#setState checking for updates
+[2020-05-20 22:28:33.055] [main] [info] update#setState idle
+[2020-05-20 23:28:32.448] [main] [info] update#setState checking for updates
+[2020-05-20 23:28:33.178] [main] [info] update#setState idle
+[2020-05-21 00:28:32.471] [main] [info] update#setState checking for updates
+[2020-05-21 00:28:33.135] [main] [info] update#setState idle
+[2020-05-21 01:28:32.497] [main] [info] update#setState checking for updates
+[2020-05-21 01:28:33.101] [main] [info] update#setState idle
+[2020-05-21 06:23:23.427] [main] [info] update#setState checking for updates
+[2020-05-21 06:23:24.216] [main] [info] update#setState idle
+[2020-05-21 08:58:31.798] [main] [info] update#setState checking for updates
+[2020-05-21 08:58:32.589] [main] [info] update#setState idle
+[2020-05-21 09:58:31.818] [main] [info] update#setState checking for updates
+[2020-05-21 09:58:32.511] [main] [info] update#setState idle
+[2020-05-21 17:27:12.997] [main] [info] update#setState checking for updates
+[2020-05-21 17:27:13.959] [main] [info] update#setState idle
+[2020-05-21 19:49:37.499] [main] [info] update#setState checking for updates
+[2020-05-21 22:37:11.680] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2623:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-05-21 22:37:11.680] [main] [info] update#setState idle
+[2020-05-21 23:37:02.573] [main] [info] update#setState checking for updates
+[2020-05-21 23:37:03.801] [main] [info] update#setState idle
+[2020-05-22 01:30:11.555] [main] [info] update#setState checking for updates
+[2020-05-22 01:30:12.257] [main] [info] update#setState idle
+[2020-05-22 04:42:49.749] [main] [info] update#setState checking for updates
+[2020-05-22 04:42:50.494] [main] [info] update#setState idle
+[2020-05-22 05:42:49.761] [main] [info] update#setState checking for updates
+[2020-05-22 05:42:50.809] [main] [info] update#setState idle
+[2020-05-22 06:42:49.769] [main] [info] update#setState checking for updates
+[2020-05-22 06:42:50.470] [main] [info] update#setState idle
+[2020-05-22 07:42:49.779] [main] [info] update#setState checking for updates
+[2020-05-22 07:42:50.555] [main] [info] update#setState idle
+[2020-05-22 14:05:43.560] [main] [info] update#setState checking for updates
+[2020-05-22 14:05:44.250] [main] [info] update#setState idle
+[2020-05-22 15:05:43.566] [main] [info] update#setState checking for updates
+[2020-05-22 15:05:44.267] [main] [info] update#setState idle
+[2020-05-22 22:05:07.821] [main] [info] update#setState checking for updates
+[2020-05-22 22:05:08.572] [main] [info] update#setState idle
+[2020-05-22 23:05:07.823] [main] [info] update#setState checking for updates
+[2020-05-22 23:05:08.579] [main] [info] update#setState idle
+[2020-05-23 02:30:10.439] [main] [info] update#setState checking for updates
+[2020-05-23 02:30:11.191] [main] [info] update#setState idle
+[2020-05-23 03:30:10.440] [main] [info] update#setState checking for updates
+[2020-05-23 03:30:11.195] [main] [info] update#setState idle
+[2020-05-23 06:13:44.216] [main] [info] update#setState checking for updates
+[2020-05-23 06:13:44.914] [main] [info] update#setState idle
+[2020-05-23 07:29:59.831] [main] [info] update#setState checking for updates
+[2020-05-23 07:30:00.558] [main] [info] update#setState idle
+[2020-05-23 08:30:00.868] [main] [info] update#setState checking for updates
+[2020-05-23 08:30:01.674] [main] [info] update#setState idle
+[2020-05-23 09:16:40.488] [main] [error] [storage state.vscdb] backup(): Error: ENOENT: no such file or directory, stat '/home/alisiddiqui/node-react/client/~/.vscode-root/User/globalStorage/state.vscdb'
