@@ -37,6 +37,14 @@ const Signup = ()=>{
     }
 
     const uploadFields =()=>{
+        const objBody= JSON.stringify({
+            name,
+            password,
+            email,
+            pic:url
+
+        })
+        console.log(objBody)
         if(!/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(email)){
             M.toast({html: "Email invalid", classes:'red darken-2'})
             return
@@ -46,13 +54,7 @@ const Signup = ()=>{
             headers:{
                 'Content-Type':'application/json'
             },
-            body: JSON.stringify({
-                name,
-                password,
-                email,
-                pic:url
-
-            })
+            body:objBody
         }).then(res=>res.json())
         .then(data=>{
             if(data.error){
@@ -64,6 +66,7 @@ const Signup = ()=>{
             }
             
         }).catch(err=>{
+            console.log('Error signing up')
             console.log(err)
         })
 
@@ -73,7 +76,9 @@ const Signup = ()=>{
             uploadPic()
         }
         else{
+            console.log(name)
             uploadFields()
+            
         }
         
     }
